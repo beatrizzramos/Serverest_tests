@@ -16,6 +16,9 @@ dependencies {
 
     // Dependência para o RestAssured (caso ainda não tenha)
     testImplementation 'io.rest-assured:rest-assured:4.4.0'
+
+    // Dependência do faker
+    testImplementation 'com.github.javafaker:javafaker:1.0.2'
 }
 
 test {
