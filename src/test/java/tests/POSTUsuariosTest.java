@@ -33,7 +33,7 @@ public class POSTUsuariosTest extends BaseTest {
         //Dados para o body da requisição
         String usuarioParaCadastrar = "{\n" +
                 "  \"nome\": \"Beatriz Ramos\",\n" +
-                "  \"email\": \"biakramoss@qa.com.br\",\n" +
+                "  \"email\": \"biakramos@qa.com.br\",\n" +
                 "  \"password\": \"teste\",\n" +
                 "  \"administrador\": \"true\"\n" +
                 "}";
